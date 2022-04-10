@@ -1,0 +1,9 @@
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\bin\Debug\netcoreapp3.1\Study.Core.deps.json
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\bin\Debug\netcoreapp3.1\Study.Core.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\bin\Debug\netcoreapp3.1\Study.Core.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.AssemblyInfoInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.AssemblyInfo.cs
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.csproj.CoreCompileInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Core\obj\Debug\netcoreapp3.1\Study.Core.csprojAssemblyReference.cache

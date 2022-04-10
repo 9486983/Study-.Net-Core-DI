@@ -1,0 +1,13 @@
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.exe
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.deps.json
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.runtimeconfig.json
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.runtimeconfig.dev.json
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\bin\Debug\netcoreapp3.1\AutoDI.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.csprojAssemblyReference.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.AssemblyInfoInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.AssemblyInfo.cs
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.csproj.CoreCompileInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\AutoDI\obj\Debug\netcoreapp3.1\AutoDI.genruntimeconfig.cache

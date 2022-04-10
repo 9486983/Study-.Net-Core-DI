@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCKzT0D+GQm//LYWbFcuy9JIWezyc7JzcFoTIP7IJ5S0cj4RMkn4eozj/RCxXSHCLeMeOvYF4AtNctIRwBV4Zw==",
+  "success": true,
+  "projectFilePath": "D:\\A_MyFile\\学习\\dotNetCoreStudy\\CsharpStudy\\Study.DI\\Study.DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhuoyue\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\zhuoyue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zhuoyue\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

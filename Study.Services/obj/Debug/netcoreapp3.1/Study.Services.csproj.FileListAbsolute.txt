@@ -1,0 +1,12 @@
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\bin\Debug\netcoreapp3.1\Study.Services.deps.json
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\bin\Debug\netcoreapp3.1\Study.Services.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\bin\Debug\netcoreapp3.1\Study.Services.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.csprojAssemblyReference.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.AssemblyInfoInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.AssemblyInfo.cs
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.csproj.CoreCompileInputs.cache
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.csproj.CopyComplete
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\obj\Debug\netcoreapp3.1\Study.Services.pdb
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\bin\Debug\netcoreapp3.1\Study.Core.dll
+D:\A_MyFile\学习\dotNetCoreStudy\CsharpStudy\Study.Services\bin\Debug\netcoreapp3.1\Study.Core.pdb
